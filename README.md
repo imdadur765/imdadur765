@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdadur765" alt="imdadur765" /></a> </p>
 
-- 🔭 I’m currently working on [Valora Journal](https://valora-journal.vercel.app/)
+- 🔭 I’m currently working on [Valora Journal](https://www.valorajournal.org)
 
 - 🌱 I’m currently learning **Next.Js React Native Flutter**
 
 - 👯 I’m looking to collaborate on **Valora Journal**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-alpha-two-55.vercel.app/](https://my-portfolio-alpha-two-55.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://my-portfolio-alpha-two-55.vercel.app/)
 
-- 💬 Ask me about **React Flutter Kotlin Javascript Html Css**
+- 💬 Ask me about ** Flutter, Kotlin, Next.js, Node.js, TypeScript and Android.**
 
 - 📫 How to reach me **imdadurrahman488@gmail.com**
 
